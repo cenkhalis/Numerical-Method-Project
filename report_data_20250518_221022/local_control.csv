@@ -1,0 +1,5 @@
+Method,AvgChange,MaxChange,SignificantPercent
+newton,24.8597,49.9763,88.0000
+lagrange,24.8597,49.9763,88.0000
+cubic_spline,11.2568,49.9010,46.0000
+b_spline,28.2014,49.9728,98.0000

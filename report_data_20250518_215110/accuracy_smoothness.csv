@@ -1,0 +1,5 @@
+Method,PathLength,MaxDeviation,MeanDeviation,MaxCurvature
+newton,2644.2381,19.4053,5.9791,0.3395
+lagrange,2644.2381,19.4053,5.9791,0.3395
+cubic_spline,1397.0282,3.8647,1.5434,0.0946
+b_spline,1953.4394,13.6521,4.3369,0.1644
